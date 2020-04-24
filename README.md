@@ -16,5 +16,5 @@ Il sostanziale potenziamento della velocità del 4G apre le porte a un utilizzo 
 ### Tipi di 4G
 Facciamo un pò di chiarezza sulle varire variazioni del 4G:
 - 4G
-  - 4G+ / 4G Plus
-    - 4.5G
+  - 4G+ / 4G Plus;
+  - 4.5G / 4G LTE Advanced Pro;
