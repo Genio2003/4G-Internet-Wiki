@@ -18,7 +18,7 @@
 
 
 
-## - Get Started! -
+## - Nozioni Base! -
 
 ### - Che cos'è il 4G? -
 La tecnologia 4G permette di navigare su Internet tramite rete mobile ad una velocità molto superiore rispetto agli ormai datati sistemi 3G, si tratta della quarta generazione tecnologica per la trasmissione dei dati sulle reti cellulari.
