@@ -1,4 +1,5 @@
-# -Utenti 4G Internet Wiki-
+![Logo](https://postimg.cc/kBT58sWX)
+---
 ### ***-INDICE-***
 - [Get Started!](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#-get-started)
   - [Che cos'è il 4G?](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#che-cos%C3%A8-il-4g)
