@@ -46,11 +46,11 @@ La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
 - **Con Giga Limitati:**
 Questo tipo di abbonamento è perfetto per chi in media al mese non supera un certo numero di GB consumati.
   - **Quantità GB al mese:**
-    - *90GB;*
-    - *200GB;*
-    - *400GB;*
-    - *500GB;*
-    - *600GB;*
+    - **90GB;**
+    - **200GB;**
+    - **400GB;**
+    - **500GB;**
+    - **600GB;**
 - **Con Giga Illimitati (Tariffa FLAT):**
 Questo tipo di abbonamento costa di più rispetto a quello con GB limitati.
 
