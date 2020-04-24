@@ -46,7 +46,7 @@ Una stazione radio base, in sigla BTS ("Base Transceiver Station"), nell'ambito 
 
 [![BTS-N-1.jpg](https://i.postimg.cc/nzkfkCQW/BTS-N-1.jpg)](https://postimg.cc/G8Hf33KP)
 
-- **Antessa Settoriale** -
+\- **Antenna Settoriale** -
 
 [![Antenna-Settoriale.jpg](https://i.postimg.cc/s2yq13MD/Antenna-Settoriale.jpg)](https://postimg.cc/MnPdF20h)
 
