@@ -90,7 +90,7 @@ La rete 4G si sviluppa in 21 categorie, da LTE Cat.0 a LTE Cat.21. A partire dal
     - **LTE Cat. 21** - 
     Velocità di download: 1400 Mbit/s (1,4 Gbps) – Velocità di upload: 150 Mbit/s
 ### - Tipo di Abbonamento -
-- **Con Giga Limitati:**
+- **Con GB Limitati:**
 Questo tipo di abbonamento è perfetto per chi in media al mese non supera un certo numero di GB consumati.
   - **Quantità GB al mese:**
     - **90GB;**
@@ -98,7 +98,7 @@ Questo tipo di abbonamento è perfetto per chi in media al mese non supera un ce
     - **400GB;**
     - **500GB;**
     - **600GB;**
-- **Con Giga Illimitati (Tariffa FLAT):**
+- **Con GB Illimitati (Tariffa FLAT):**
 Questo tipo di abbonamento costa di più rispetto a quello con GB limitati.
 
 ### - Quale Provider Scegliere? -
