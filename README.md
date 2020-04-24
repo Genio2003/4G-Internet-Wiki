@@ -43,6 +43,7 @@ A differenza del'4G+ il 4.5G utilizza tutte e 4 le frequenze.
 La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
 ### - Che cos'è una BTS? -
 Una stazione radio base, in sigla BTS ("Base Transceiver Station"), nell'ambito delle reti cellulari, indica un sistema di ricetrasmissione di un segnale radio dotato tipicamente di antenne a settore che servono i terminali mobili degli utenti di una determinata area geografica.
+
 [![BTS-N-1.jpg](https://i.postimg.cc/nzkfkCQW/BTS-N-1.jpg)](https://postimg.cc/G8Hf33KP)
 
 ### - Modem 4G -
