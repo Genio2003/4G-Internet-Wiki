@@ -42,10 +42,11 @@ La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
 
 ### - Tipo di Abbonamento -
 - **Con Giga Limitati:**
-Questo tipo di abbonamento è perfetto per chi vive da solo o per chi in media al meso non supera un certo numero di GB consumati.
-  - Quantità GB:
-  
-
+Questo tipo di abbonamento è perfetto per chi in media al mese non supera un certo numero di GB consumati.
+  - *Quantità GB:*
+    - **200GB;**
+    - **400GB;**
+    - **600GB;**
 - **Con Giga Illimitati:**
 
 ### - Quale Provaider Scegliere? -
