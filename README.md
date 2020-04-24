@@ -46,6 +46,10 @@ Una stazione radio base, in sigla BTS ("Base Transceiver Station"), nell'ambito 
 
 [![BTS-N-1.jpg](https://i.postimg.cc/nzkfkCQW/BTS-N-1.jpg)](https://postimg.cc/G8Hf33KP)
 
+- **Antessa Settoriale** -
+
+[![Antenna-Settoriale.jpg](https://i.postimg.cc/s2yq13MD/Antenna-Settoriale.jpg)](https://postimg.cc/MnPdF20h)
+
 ### - Modem 4G -
 - **Classificazione Modem:**
 La rete 4G si sviluppa in 21 categorie, da LTE Cat.0 a LTE Cat.21. A partire dall'Cat.6 il modem in questione supporta il 4G+ quindi ha la possibilità di aggregare due bande. Più si sale di categoria più aumentano le bande aggregate e quindi la velocità di navigazione. **(La quantità di bande disponibili dipende dalla BTS nella vostra zona!)**
