@@ -7,6 +7,8 @@
     -  [4.5G/4G LTE Advanced Pro](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#45g4g-lte-advanced-pro)
   - [Frequenze del 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--frequenze-del-4g--)
   - [Modem 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--modem-4g--)
+  - [Tipo di Abbonamento]()
+  - [Quale Provaider Scegliere]()
   - [Vantaggi e Svantaggi](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--vantaggi-e-svantaggi--)
 - [Huawei B535]()
   - [Specifiche Tecniche]()
@@ -43,11 +45,14 @@ La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
 ### - Tipo di Abbonamento -
 - **Con Giga Limitati:**
 Questo tipo di abbonamento è perfetto per chi in media al mese non supera un certo numero di GB consumati.
-  - *Quantità GB:*
+  - *Quantità GB al mese:*
+    - **90GB;**
     - **200GB;**
     - **400GB;**
+    - **500GB;**
     - **600GB;**
-- **Con Giga Illimitati:**
+- **Con Giga Illimitati (Tariffa FLAT):**
+Questo tipo di abbonamento costa di più rispetto a quello con GB limitati.
 
 ### - Quale Provaider Scegliere? -
 
