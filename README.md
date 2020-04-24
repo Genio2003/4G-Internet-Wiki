@@ -7,6 +7,7 @@
     -  [4G+/4G Plus](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#4g4g-plus)
     -  [4.5G/4G LTE Advanced Pro](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#45g4g-lte-advanced-pro)
   - [Frequenze del 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--frequenze-del-4g--)
+  - [Che cos'è una BTS?]()
   - [Modem 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--modem-4g--)
   - [Tipo di Abbonamento](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--tipo-di-abbonamento--)
   - [Quale Provaider Scegliere](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-provider-scegliere--)
@@ -40,6 +41,9 @@ A differenza del'4G+ il 4.5G utilizza tutte e 4 le frequenze.
 - **Banda 20** (800 MHz)
 #### - Differenza tra Banda e Frequenza?
 La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
+### - Che cos'è una BTS? -
+Una stazione radio base, in sigla BTS ("Base Transceiver Station"), nell'ambito delle reti cellulari, indica un sistema di ricetrasmissione di un segnale radio dotato tipicamente di antenne a settore che servono i terminali mobili degli utenti di una determinata area geografica.
+
 ### - Modem 4G -
 - **Classificazione Modem:**
 La rete 4G si sviluppa in 21 categorie, da LTE Cat.0 a LTE Cat.21. A partire dall'Cat.6 il modem in questione supporta il 4G+ quindi ha la possibilità di aggregare due bande. Più si sale di categoria più aumentano le bande aggregate e quindi la velocità di navigazione. **(La quantità di bande disponibili dipende dalla BTS nella vostra zona!)**
