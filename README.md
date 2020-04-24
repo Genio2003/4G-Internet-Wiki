@@ -28,3 +28,9 @@ Si tratta sempre di una rete 4G, che però utilizza due frequenze per raggiunger
 #### ***4.5G/4G LTE Advanced Pro:***
 A differenza del'4G+ il 4.5G utilizza tutte e 4 le frequenze.
 ### - Frequenze del 4G -
+- **Banda 1** (2100 MHz)
+- **Banda 2** ()
+- **Banda 3** (1800 MHz)
+- **Banda 7** (2600 MHz)
+- **Banda 20** (800 MHz)
+#### - Differenza tra Banda e Frequenza?
