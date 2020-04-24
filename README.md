@@ -4,7 +4,7 @@
   - [Che cos'è il 4G?](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#che-cos%C3%A8-il-4g)
   - [Tipi di 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#tipi-di-4g)
     -  [4G+/4G Plus](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#4g4g-plus)
-    -  [4.5G/4G LTE Advanced Pro]()
+    -  [4.5G/4G LTE Advanced Pro](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#45g4g-lte-advanced-pro)
   - [Frequenze del 4G]()
   - [Modem 4G]()
   - [Vantaggi e Svantaggi]()
