@@ -83,7 +83,7 @@ La rete 4G si sviluppa in 21 categorie, da LTE Cat.0 a LTE Cat.21. A partire dal
     Velocità di download: 1000 Mbit/s (1 Gbps) – Velocità di upload: 150 Mbit/s
     - **LTE Cat. 18**
     Velocità di download: 1100 Mbit/s (1,2 Gbps) – Velocità di upload: 150 Mbit/s
-    - **LTE Cat. 21
+    - **LTE Cat. 21**
     Velocità di download: 1400 Mbit/s (1,4 Gbps) – Velocità di upload: 150 Mbit/s
 ### - Tipo di Abbonamento -
 - **Con Giga Limitati:**
