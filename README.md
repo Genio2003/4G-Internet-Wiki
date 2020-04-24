@@ -42,7 +42,49 @@ A differenza del'4G+ il 4.5G utilizza tutte e 4 le frequenze.
 La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
 ### - Modem 4G -
 - **Classificazione Modem:**
-
+La rete 4G si sviluppa in 21 categorie, da LTE Cat.0 a LTE Cat.21. A partire dall'Cat.6 il modem in questione supporta il 4G+ quindi ha la possibilità di aggregare due bande. Più si sale di categoria più aumentano le bande aggregate e quindi la velocità di navigazione. **(La quantità di bande disponibili dipende dalla BTS nella vostra zona!)**
+  - **Elenco delle Categorie e Velocità di navigazione:**
+    - **LTE Cat. 0**
+    Velocità in download: 1 Mbit/s – Velocità in upload: 1 Mbit/s
+    - **LTE Cat. 1**
+    Velocità in download: 10 Mbit/s – Velocità in upload: 5 Mbit/s
+    - **LTE Cat. 2**
+    Velocità in download: 50 Mbit/s – Velocità in upload: 25 Mbit/s
+    - **LTE Cat. 3**
+    Velocità in download: 100 Mbit/s – Velocità in upload: 50 Mbit/s
+    - **LTE Cat. 4**
+    Velocità in download: 150 Mbit/s – Velocità in upload: 50 Mbit/s
+    - **LTE Cat. 5**
+    Velocità in download: 300 Mbit/s – Velocità in upload: 50 Mbit/s
+    
+    ***Inizio LTE Advanced (4G+)***
+    
+    - **LTE Cat. 6**
+    Velocità in download: 300 Mbit/s – Velocità in upload: 75 Mbit/s
+    - **LTE Cat. 7**
+    Velocità in download: 300 Mbit/s – Velocità in upload: 150 Mbit/s
+    - **LTE Cat. 8**
+    Velocità in download: 300 Mbit/s – Velocità in upload: 150 Mbit/s
+    - **LTE Cat. 9**
+    Velocità in download: 450 Mbit/s – Velocità in upload: 50 Mbit/s
+    - **LTE Cat. 10**
+    Velocità in download: 450 Mbit/s – Velocità in upload: 100 Mbit/s
+    - **LTE Cat. 11**
+    Velocità in download: 600 Mbit/s – Velocità in upload: 50 Mbit/s
+    - **LTE Cat. 12**
+    Velocità in download: 600 Mbit/s – Velocità in upload: 100 Mbit/s
+    - **LTE Cat. 13**
+    Velocità in download: 400 Mbit/s – Velocità in upload: 150 Mbit/s
+    - **LTE Cat. 14**
+    Velocità in download: 400 Mbit/s – Velocità in upload: 100 Mbit/s
+    - **LTE Cat. 15**
+    Velocità in download: 400 Mbit/s – Velocità in upload: 150 Mbit/s
+    - **LTE Cat. 16**
+    Velocità di download: 1000 Mbit/s (1 Gbps) – Velocità di upload: 150 Mbit/s
+    - **LTE Cat. 18**
+    Velocità di download: 1100 Mbit/s (1,2 Gbps) – Velocità di upload: 150 Mbit/s
+    - **LTE Cat. 21
+    Velocità di download: 1400 Mbit/s (1,4 Gbps) – Velocità di upload: 150 Mbit/s
 ### - Tipo di Abbonamento -
 - **Con Giga Limitati:**
 Questo tipo di abbonamento è perfetto per chi in media al mese non supera un certo numero di GB consumati.
