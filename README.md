@@ -42,6 +42,9 @@ La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
 
 ### - Tipo di Abbonamento -
 - **Con Giga Limitati:**
+Questo tipo di abbonamento è perfetto per chi vive da solo o per chi in media al meso non supera un certo numero di GB consumati.
+  - Quantità GB:
+  
 
 - **Con Giga Illimitati:**
 
