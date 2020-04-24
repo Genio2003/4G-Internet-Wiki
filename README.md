@@ -20,7 +20,7 @@ Facciamo un pò di chiarezza sulle varire variazioni del 4G:
 - 4G
   - 4G+/4G Plus;
   - 4.5G/4G LTE Advanced Pro;
-
+---
 #### ***4G+/4G Plus:***
 
 #### ***4.5G/4G LTE Advanced Pro:***
