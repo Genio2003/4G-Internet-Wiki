@@ -1,6 +1,6 @@
 # Utenti 4G Internet Wiki
 ### ***-INDICE-***
-- Get Started!
+- ![Get Started!]()
 - Huawei B535
 
 
