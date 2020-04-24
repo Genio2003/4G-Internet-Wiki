@@ -4,4 +4,4 @@
 - Huawei B535
 
 ## Get Started!
-## Che cos'è il 4G?
+### Che cos'è il 4G?
