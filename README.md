@@ -37,5 +37,8 @@ A differenza del'4G+ il 4.5G utilizza tutte e 4 le frequenze.
 - **Banda 20** (800 MHz)
 #### - Differenza tra Banda e Frequenza?
 La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
+### - Modem 4G -
+- **Classificazione Modem:**
+
 ### - Vantaggi e Svantaggi -
 - **Vantaggi:**
