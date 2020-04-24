@@ -1,7 +1,7 @@
 [![coollogo-com-189461339.png](https://i.postimg.cc/dVYZbS1d/coollogo-com-189461339.png)](https://postimg.cc/kBT58sWX)
 ---
 ### ***-INDICE-***
-- [Get Started!]()
+- [Get Started!](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--get-started--)
   - [Che cos'è il 4G?]()
   - [Tipi di 4G]()
     -  [4G+/4G Plus](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#4g4g-plus)
