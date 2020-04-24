@@ -40,6 +40,13 @@ La Banda è data dall'intervallo di Frequenze occupate dal segnale in questione.
 ### - Modem 4G -
 - **Classificazione Modem:**
 
+### - Tipo di Abbonamento -
+- **Con Giga Limitati:**
+
+- **Con Giga Illimitati:**
+
+### - Quale Provaider Scegliere? -
+
 ### - Vantaggi e Svantaggi -
 - **Vantaggi:**
 Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi interessanti, ovviamente a seconda dell’utilizzo che un utente fa della rete dati. Vediamone alcuni:
