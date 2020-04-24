@@ -7,6 +7,7 @@
     -  [4.5G/4G LTE Advanced Pro]()
 - [Huawei B535]()
   - [Specifiche Tecniche]()
+  - [Installazione Antenna Esterna]()
 
 
 
