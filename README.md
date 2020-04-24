@@ -1,7 +1,7 @@
 # -Utenti 4G Internet Wiki-
 ### ***-INDICE-***
 - [Get Started!](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#-get-started)
-  - [Che cos'è il 4G?]()
+  - [Che cos'è il 4G?](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#che-cos%C3%A8-il-4g)
   - [Tipi di 4G]()
 - [Huawei B535]()
   - [Specifiche Tecniche]()
