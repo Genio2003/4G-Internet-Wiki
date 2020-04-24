@@ -59,31 +59,31 @@ La rete 4G si sviluppa in 21 categorie, da LTE Cat.0 a LTE Cat.21. A partire dal
     
     ***Inizio LTE Advanced (4G+)***
     
-    - **LTE Cat. 6**
+    - **LTE Cat. 6** - 
     Velocità in download: 300 Mbit/s – Velocità in upload: 75 Mbit/s
-    - **LTE Cat. 7**
+    - **LTE Cat. 7** - 
     Velocità in download: 300 Mbit/s – Velocità in upload: 150 Mbit/s
-    - **LTE Cat. 8**
+    - **LTE Cat. 8** - 
     Velocità in download: 300 Mbit/s – Velocità in upload: 150 Mbit/s
-    - **LTE Cat. 9**
+    - **LTE Cat. 9** - 
     Velocità in download: 450 Mbit/s – Velocità in upload: 50 Mbit/s
-    - **LTE Cat. 10**
+    - **LTE Cat. 10** - 
     Velocità in download: 450 Mbit/s – Velocità in upload: 100 Mbit/s
-    - **LTE Cat. 11**
+    - **LTE Cat. 11** - 
     Velocità in download: 600 Mbit/s – Velocità in upload: 50 Mbit/s
-    - **LTE Cat. 12**
+    - **LTE Cat. 12** - 
     Velocità in download: 600 Mbit/s – Velocità in upload: 100 Mbit/s
-    - **LTE Cat. 13**
+    - **LTE Cat. 13** - 
     Velocità in download: 400 Mbit/s – Velocità in upload: 150 Mbit/s
-    - **LTE Cat. 14**
+    - **LTE Cat. 14** - 
     Velocità in download: 400 Mbit/s – Velocità in upload: 100 Mbit/s
-    - **LTE Cat. 15**
+    - **LTE Cat. 15** - 
     Velocità in download: 400 Mbit/s – Velocità in upload: 150 Mbit/s
-    - **LTE Cat. 16**
+    - **LTE Cat. 16** - 
     Velocità di download: 1000 Mbit/s (1 Gbps) – Velocità di upload: 150 Mbit/s
-    - **LTE Cat. 18**
+    - **LTE Cat. 18** - 
     Velocità di download: 1100 Mbit/s (1,2 Gbps) – Velocità di upload: 150 Mbit/s
-    - **LTE Cat. 21**
+    - **LTE Cat. 21** - 
     Velocità di download: 1400 Mbit/s (1,4 Gbps) – Velocità di upload: 150 Mbit/s
 ### - Tipo di Abbonamento -
 - **Con Giga Limitati:**
