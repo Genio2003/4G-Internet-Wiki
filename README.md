@@ -54,7 +54,7 @@ Questo tipo di abbonamento è perfetto per chi in media al mese non supera un ce
 - **Con Giga Illimitati (Tariffa FLAT):**
 Questo tipo di abbonamento costa di più rispetto a quello con GB limitati.
 
-### - Quale Provaider Scegliere? -
+### - Quale Provider Scegliere? -
 - **Principali Provaider:**
   - [Ogilink](https://www.ogilink.it/) - *(Tariffe Con GB Limitati e Illimitati)*;
   - [Lundax](https://lundax.com/) - *(Tariffe Con GB Illimitati)*;
