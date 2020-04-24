@@ -5,6 +5,7 @@
   - [Tipi di 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#tipi-di-4g)
     -  [4G+/4G Plus]()
     -  [4.5G/4G LTE Advanced Pro]()
+  - [Frequenze del 4G]()
 - [Huawei B535]()
   - [Specifiche Tecniche]()
   - [Installazione Antenna Esterna]()
@@ -26,3 +27,4 @@ Facciamo un pò di chiarezza sulle varire variazioni del 4G e le loro velocità:
 Si tratta sempre di una rete 4G, che però utilizza due frequenze per raggiungere una velocità maggiore.
 #### ***4.5G/4G LTE Advanced Pro:***
 A differenza del'4G+ il 4.5G utilizza tutte e 4 le frequenze.
+### - Frequenze del 4G
