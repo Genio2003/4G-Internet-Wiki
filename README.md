@@ -1,4 +1,4 @@
-[Logo](https://postimg.cc/kBT58sWX)
+[coollogo-com-189461339.png](https://postimg.cc/kBT58sWX)
 ---
 ### ***-INDICE-***
 - [Get Started!](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#-get-started)
