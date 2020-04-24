@@ -6,6 +6,8 @@
     -  [4G+/4G Plus]()
     -  [4.5G/4G LTE Advanced Pro]()
   - [Frequenze del 4G]()
+  - [Modem 4G]()
+  - [Vantaggi e Svantaggi]()
 - [Huawei B535]()
   - [Specifiche Tecniche]()
   - [Installazione Antenna Esterna]()
