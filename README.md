@@ -7,7 +7,7 @@
     -  [4G+/4G Plus](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#4g4g-plus)
     -  [4.5G/4G LTE Advanced Pro](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#45g4g-lte-advanced-pro)
   - [Frequenze del 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--frequenze-del-4g--)
-  - [Che cos'è una BTS?]()
+  - [Che cos'è una BTS?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--che-cos%C3%A8-una-bts--)
   - [Modem 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--modem-4g--)
   - [Tipo di Abbonamento](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--tipo-di-abbonamento--)
   - [Quale Provaider Scegliere](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-provider-scegliere--)
