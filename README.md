@@ -3,8 +3,8 @@
 - [Get Started!](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#-get-started)
   - [Che cos'è il 4G?](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#che-cos%C3%A8-il-4g)
   - [Tipi di 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#tipi-di-4g)
-    - [4G+/4G Plus]()
-    - [4.5G/4G LTE Advanced Pro]()
+   - [4G+/4G Plus]()
+   - [4.5G/4G LTE Advanced Pro]()
 - [Huawei B535]()
   - [Specifiche Tecniche]()
 
@@ -20,7 +20,7 @@ Facciamo un pò di chiarezza sulle varire variazioni del 4G:
 - 4G
   - 4G+/4G Plus;
   - 4.5G/4G LTE Advanced Pro;
----
+
 #### ***4G+/4G Plus:***
 
 #### ***4.5G/4G LTE Advanced Pro:***
