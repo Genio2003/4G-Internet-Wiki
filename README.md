@@ -56,8 +56,8 @@ Questo tipo di abbonamento costa di più rispetto a quello con GB limitati.
 
 ### - Quale Provaider Scegliere? -
 - **Principali Provaider:**
-  - [Ogilink](https://www.ogilink.it/);
-  - [Lundax](https://lundax.com/);
+  - [Ogilink](https://www.ogilink.it/)*(Tariffe Con GB Limitati e Illimitati)*;
+  - [Lundax](https://lundax.com/)*(Tariffe Con GB Illimitati)*;
 ### - Vantaggi e Svantaggi -
 - **Vantaggi:**
 Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi interessanti, ovviamente a seconda dell’utilizzo che un utente fa della rete dati. Vediamone alcuni:
