@@ -140,7 +140,7 @@ Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi inte
   Questo vuol dire che addio a costi di attivazione, canone, disattivazioni, guasti su fisso, etc….
 ## - Primi Passi -
 ### - Individuare L'Operatore! -
-Il Primo Passo è quello di Individuare l'Operatore Telefonico che prende meglio nella vostra zona. Per fare ciò vi serviranno le SIM dei principali Operatori (**Vodafone/TIM/WindTre**).
+Il Primo Passo è quello di Individuare l'Operatore Telefonico che prende meglio nella vostra zona. Per fare ciò vi serviranno le SIM dei principali Operatori (**Vodafone/TIM/WindTre**). Il metodo più economico è quello di chiedere a parenti/amici le loro SIM in prestito per effettuare i test iniziali.
 ## - Modem 4G Consigliati -
 ### - Huawei B535 -
 #### - ***Specifiche Tecniche:***
