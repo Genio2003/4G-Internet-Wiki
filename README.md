@@ -147,10 +147,13 @@ Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi inte
 ### - Individuare L'Operatore! -
 Il Primo Passo è quello di Individuare l'Operatore Telefonico che prende meglio nella vostra zona. Per fare ciò vi serviranno le SIM dei principali Operatori (**Vodafone/TIM/WindTre**). Il metodo più economico è quello di chiedere a parenti/amici le loro SIM in prestito per effettuare i test iniziali.
 Una volta ottenute le SIM bisognerà effettuare dei test di velocità in varie zone sia all'interno che all'esterno, se possibile.
-Questi test permetteranno di individuare sia l'Operatore che approssimatamete la direzione in cui è situata la BTS.
 ### - Trovare la BTS! -
-Una volta individuato l'Operatore bisognerà trovare la posizione della BTS. Il metodo più semplice è quello di trovarla tramite siti web che mappano la posizione delle varie BTS. Il principale è [***LTE Italy***](https://lteitaly.it/it/). Sarà necessario registrarsi per visualizzare le mappe dettagliate dei vari Operatori. [**Clicca Qui Per La Guida!**]()
-Un altro sito web simile è [***Cell Mapper***](https://www.cellmapper.net/map). In cui non sarà necessaria nessuna registrazione per visualizzare le mappe. [**Clicca Qui Per La Guida!**]()
+Una volta individuato l'Operatore bisognerà trovare la posizione della BTS. Il metodo più semplice è quello di trovarla tramite siti web che mappano la posizione delle varie BTS. Il principale è [***LTE Italy***](). Sarà necessario registrarsi per visualizzare le mappe dettagliate dei vari Operatori.
+Un altro sito web simile è [***Cell Mapper***](). In cui non sarà necessaria nessuna registrazione per visualizzare le mappe.
+Nell'improbabile caso che la BTS che cercate non sia elencata su questi due siti allora un'altra opzione è quella di cercarvela da soli, questo vuol dire utilizzare un applicazione che permetta di individuare le BTS. Fortunatamente sia LTE Italy che Cell Mapper sono già provvisti per queste evenienze. [(Qui per più informazioni)]()
+### - Test Preliminari -
+Una volta trovata anche la BTS sarà necessario effettuare un test di velocità, puntati verso la BTS dell'Operatore che prende meglio nella vostra zona.
+Questo servirà a capire in grandi stime la velocità di connessione.
 ## - Modem 4G Consigliati -
 ### - Huawei B535 -
 #### - ***Specifiche Tecniche:***
