@@ -149,7 +149,8 @@ Il Primo Passo è quello di Individuare l'Operatore Telefonico che prende meglio
 Una volta ottenute le SIM bisognerà effettuare dei test di velocità in varie zone sia all'interno che all'esterno, se possibile.
 Questi test permetteranno di individuare sia l'Operatore che approssimatamete la direzione in cui è situata la BTS.
 ### - Trovare la BTS! -
-Una volta individuato l'Operatore bisognerà trovare la posizione della BTS. Il metodo più semplice è quello di trovarla tramite siti web che mappano la posizione delle varie BTS. Uno di questi è [LTE Italy](https://lteitaly.it/it/). Sarà necessario registrarsi per visualizzare le mappe dettagliate dei vari Operatori.
+Una volta individuato l'Operatore bisognerà trovare la posizione della BTS. Il metodo più semplice è quello di trovarla tramite siti web che mappano la posizione delle varie BTS. Il principale è [***LTE Italy***](https://lteitaly.it/it/). Sarà necessario registrarsi per visualizzare le mappe dettagliate dei vari Operatori. [**Clicca Qui Per La Guida!**]()
+Un altro sito web simile è [***Cell Mapper***](https://www.cellmapper.net/map). In cui non sarà necessaria nessuna registrazione per visualizzare le mappe. [**Clicca Qui Per La Guida!**]()
 ## - Modem 4G Consigliati -
 ### - Huawei B535 -
 #### - ***Specifiche Tecniche:***
