@@ -155,3 +155,6 @@ Una volta individuato l'Operatore bisognerà trovare la posizione della BTS. Il 
 - **4 Gigabit Ethernet Ports;**
 - **Controllo con l’APP HUAWEI SmartHome;**
 #### - ***Installazione Antenna Esterna:***
+
+## - La Mia Esperienza -
+### - Introduzione -
