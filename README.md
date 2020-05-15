@@ -13,9 +13,26 @@
   - [Quale Provaider Scegliere?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-provider-scegliere--)
   - [Quale Modem Scegliere?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-modem-scegliere--)
   - [Vantaggi e Svantaggi](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--vantaggi-e-svantaggi--)
+- [Primi Passi]()
+  - [Individuare L'Operatore!]()
+  - [Trovare la BTS!]()
+  - [Test Preliminari]()
+  - [Antenna Esterna?]()
+    - [Consigli Posizionamento]()
+  - [Precisazioni Finali]()
 - [Huawei B535](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--huawei-b535--)
   - [Specifiche Tecniche](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#specifiche-tecniche)
   - [Installazione Antenna Esterna]()
+- [La Mia Esperienza]()
+  - [Introduzione]()
+  - [Operatore]()
+  - [Ogilink]()
+  - [Proggettazione]()
+  - [Prima Antenna Esterna]()
+  - [Proggettazione x2]()
+  - [Salto di Qualità!]()
+  - [Risultato Finale]()
+  - [Un Mese Dopo..]()
 
 
 
@@ -122,10 +139,10 @@ Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi inte
   Questo vuol dire che addio a costi di attivazione, canone, disattivazioni, guasti su fisso, etc….
 ### - Huawei B535 -
 #### ***Specifiche Tecniche:***
-- **LTE Cat7**
-- **4G LTE fino a 300Mbps(DL)/100Mbps(UL)**
-- **Dual-Band Wi-Fi Auto-Selection**
-- **Plug and Play**
-- **4 Gigabit Ethernet Ports**
-- **Controllo con l’APP HUAWEI SmartHome**
+- **LTE Cat7;**
+- **4G LTE fino a 300Mbps(DL)/100Mbps(UL);**
+- **Dual-Band Wi-Fi Auto-Selection;**
+- **Plug and Play;**
+- **4 Gigabit Ethernet Ports;**
+- **Controllo con l’APP HUAWEI SmartHome;**
 #### ***Installazione Antenna Esterna:***
