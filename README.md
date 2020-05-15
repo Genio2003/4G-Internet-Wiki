@@ -23,7 +23,7 @@
 - [Modem Consigliati](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--modem-4g-consigliati--)
   - [Huawei B535](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--huawei-b535--)
     - [Specifiche Tecniche](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--specifiche-tecniche)
-    - [Installazione Antenna Esterna]()
+    - [Installazione Antenna Esterna](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--installazione-antenna-esterna)
 - [La Mia Esperienza]()
   - [Introduzione]()
   - [Operatore]()
