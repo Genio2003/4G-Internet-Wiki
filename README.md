@@ -20,7 +20,8 @@
   - [Antenna Esterna?]()
     - [Consigli Posizionamento]()
   - [Precisazioni Finali]()
-- [Huawei B535](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--huawei-b535--)
+- [Modem Consigliati]()
+  - [Huawei B535](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--huawei-b535--)
   - [Specifiche Tecniche](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#specifiche-tecniche)
   - [Installazione Antenna Esterna]()
 - [La Mia Esperienza]()
@@ -137,6 +138,7 @@ Questo tipo di abbonamento costa di più rispetto a quello con GB limitati.
 Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi interessanti, ovviamente a seconda dell’utilizzo che un utente fa della rete dati. Vediamone alcuni:
   - **Nessuna Linea Fissa!**
   Questo vuol dire che addio a costi di attivazione, canone, disattivazioni, guasti su fisso, etc….
+## - Modem 4G Consigliati -
 ### - Huawei B535 -
 #### ***Specifiche Tecniche:***
 - **LTE Cat7;**
