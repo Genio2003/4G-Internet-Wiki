@@ -13,7 +13,7 @@
   - [Quale Provaider Scegliere?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-provider-scegliere--)
   - [Quale Modem Scegliere?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-modem-scegliere--)
   - [Vantaggi e Svantaggi](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--vantaggi-e-svantaggi--)
-- [Primi Passi]()
+- [Primi Passi](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--primi-passi--)
   - [Individuare L'Operatore!]()
   - [Trovare la BTS!]()
   - [Test Preliminari]()
