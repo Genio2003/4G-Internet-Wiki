@@ -138,6 +138,8 @@ Questo tipo di abbonamento costa di più rispetto a quello con GB limitati.
 Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi interessanti, ovviamente a seconda dell’utilizzo che un utente fa della rete dati. Vediamone alcuni:
   - **Nessuna Linea Fissa!**
   Questo vuol dire che addio a costi di attivazione, canone, disattivazioni, guasti su fisso, etc….
+## - Primi Passi -
+### - Individuare L'Operatore! -
 ## - Modem 4G Consigliati -
 ### - Huawei B535 -
 #### - ***Specifiche Tecniche:***
