@@ -121,5 +121,11 @@ Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi inte
   - **Nessuna Linea Fissa!**
   Questo vuol dire che addio a costi di attivazione, canone, disattivazioni, guasti su fisso, etc….
 ### - Huawei B535 -
-#### ***Specifiche Tecniche:*** 
+#### ***Specifiche Tecniche:***
+- **LTE Cat7**
+- **4G LTE fino a 300Mbps(DL)/100Mbps(UL)**
+- **Dual-Band Wi-Fi Auto-Selection**
+- **Plug and Play**
+- **4 Gigabit Ethernet Ports**
+- **Controllo con l’APP HUAWEI SmartHome**
 #### ***Installazione Antenna Esterna:***
