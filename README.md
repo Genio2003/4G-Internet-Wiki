@@ -141,6 +141,10 @@ Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi inte
 ## - Primi Passi -
 ### - Individuare L'Operatore! -
 Il Primo Passo è quello di Individuare l'Operatore Telefonico che prende meglio nella vostra zona. Per fare ciò vi serviranno le SIM dei principali Operatori (**Vodafone/TIM/WindTre**). Il metodo più economico è quello di chiedere a parenti/amici le loro SIM in prestito per effettuare i test iniziali.
+Una volta ottenute le SIM bisognerà effettuare dei test di velocità in varie zone sia all'interno che all'esterno, se possibile.
+Questi test permetteranno di individuare sia l'Operatore che approssimatamete la direzione in cui è situata la BTS.
+### - Trovare la BTS! -
+Una volta individuato l'Operatore bisognerà trovare la posizione della BTS. Il metodo più semplice è quello di trovarla tramite siti web che mappano la posizione delle varie BTS. Uno di questi è LTE Italy
 ## - Modem 4G Consigliati -
 ### - Huawei B535 -
 #### - ***Specifiche Tecniche:***
