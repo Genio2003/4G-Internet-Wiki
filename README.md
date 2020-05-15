@@ -14,7 +14,7 @@
   - [Quale Modem Scegliere?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-modem-scegliere--)
   - [Vantaggi e Svantaggi](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--vantaggi-e-svantaggi--)
 - [Primi Passi](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--primi-passi--)
-  - [Individuare L'Operatore!]()
+  - [Individuare L'Operatore!](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--individuare-loperatore--)
   - [Trovare la BTS!]()
   - [Test Preliminari]()
   - [Antenna Esterna?]()
