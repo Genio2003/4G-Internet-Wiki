@@ -11,7 +11,7 @@
   - [Modem 4G](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--modem-4g--)
   - [Tipo di Abbonamento](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--tipo-di-abbonamento--)
   - [Quale Provaider Scegliere?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-provider-scegliere--)
-  - [Quale Modem Scegliere?]()
+  - [Quale Modem Scegliere?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-modem-scegliere--)
   - [Vantaggi e Svantaggi](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--vantaggi-e-svantaggi--)
 - [Huawei B535]()
   - [Specifiche Tecniche]()
@@ -120,3 +120,5 @@ Questo tipo di abbonamento costa di più rispetto a quello con GB limitati.
 Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi interessanti, ovviamente a seconda dell’utilizzo che un utente fa della rete dati. Vediamone alcuni:
   - **Nessuna Linea Fissa!**
   Questo vuol dire che addio a costi di attivazione, canone, disattivazioni, guasti su fisso, etc….
+### - Huawei B535 -
+#### ***Specifiche Tecniche:*** 
