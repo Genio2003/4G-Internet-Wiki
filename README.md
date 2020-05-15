@@ -14,7 +14,7 @@
   - [Quale Modem Scegliere?](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--quale-modem-scegliere--)
   - [Vantaggi e Svantaggi](https://github.com/Genio2003/Utenti-4G-Internet-Wiki/blob/master/README.md#--vantaggi-e-svantaggi--)
 - [Huawei B535](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#--huawei-b535--)
-  - [Specifiche Tecniche]()
+  - [Specifiche Tecniche](https://github.com/Genio2003/4G-Internet-Wiki/blob/master/README.md#specifiche-tecniche)
   - [Installazione Antenna Esterna]()
 
 
@@ -122,3 +122,4 @@ Utilizzare una connessione Internet 4G per casa ha sicuramente dei vantaggi inte
   Questo vuol dire che addio a costi di attivazione, canone, disattivazioni, guasti su fisso, etc….
 ### - Huawei B535 -
 #### ***Specifiche Tecniche:*** 
+#### ***Installazione Antenna Esterna:***
